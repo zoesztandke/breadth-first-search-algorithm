@@ -1,5 +1,4 @@
 from typing import Dict, Set, Union
-import numpy as np
 
 def bfs(G: Dict[Union[int, str], Set[Union[int, str]]]):
     """
